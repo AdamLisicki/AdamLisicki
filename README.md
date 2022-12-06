@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Adam Lisicki, a Cloud Enthusiast.
+I'm a Cloud Enthusiast.
 
-I'm focused on cloud , automation and many others technologies.
+-🌱Expanding my knowledge in ☁️Cloud and ♾️DevOps.
+- 
 
 
 <!--
