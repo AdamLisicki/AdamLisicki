@@ -1,5 +1,10 @@
 ### Hi there 👋
-My name is Adam Lisicki
+
+My name is Adam Lisicki, a Cloud Enthusiast.
+
+I'm focused on cloud , automation and many others technologies.
+
+
 <!--
 **AdamLisicki/AdamLisicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
