@@ -1,7 +1,7 @@
 # Hi, I'm Adam 👋
 
 ## I'm a Cloud Enthusiast. 
-# ☁️Expanding my knowledge in Cloud and DevOps ♾️
+### ☁️Expanding my knowledge in Cloud and DevOps ♾️
 
 
 ## Cloud Learning Profiles 👨🏻‍💻
@@ -44,7 +44,7 @@
   <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width="125" height="125">
 </p>
 
-## Connect with Me 🤝🏻 &nbsp;
+## Connect with Me 📞 &nbsp;
 
 <h3 align="center">
 <a href="https://linkedin.com/in/adamlisicki"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
