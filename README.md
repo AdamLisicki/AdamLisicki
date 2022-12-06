@@ -45,11 +45,13 @@
   <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width="125" height="125">
 </p>
 
-## Connect with Me 📞 &nbsp;
+## Connect with Me 👐 &nbsp;
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/adam-lisicki/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/AdamLisicki" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 
-
+Thanks for visiting!
+  
+☁️ 💪 ♾️ 
 
