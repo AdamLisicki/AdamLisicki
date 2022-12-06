@@ -5,8 +5,8 @@ Expanding my knowledge in Cloud and DevOps.
 
 
 ## Cloud Learning Profiles 👨🏻‍💻
-- 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
-- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://docs.microsoft.com/en-us/users/ahmedtariq/)
+- 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.cloudskillsboost.google/public_profiles/7e3a32a9-bbc9-478b-860d-5e2018016235)
+- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://learn.microsoft.com/en-us/users/adamlisicki-1131/)
 
 
 <h2>Tech Stack 💻</h2>
@@ -44,27 +44,6 @@ Expanding my knowledge in Cloud and DevOps.
 <h3 align="center">
 <a href="https://linkedin.com/in/adamlisicki"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/AdamLisicki" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
-  
 
-<br>
 
-## Profile Views
-
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01" alt="Ahmed Tariq" /> <h2>
-
-<h2>GitHub Analytics ⚙️</h2>
-
-<p align="center">
-<a href="https://github.com/ahmedtariq01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedtariq01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtariq01&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-</p>
-
-## Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/ahmedtariq01/ahmedtariq01/blob/main/github-metrics.svg" />
-</p>
 
