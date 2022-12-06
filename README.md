@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/adam-lisicki/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/AdamLisicki" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 
-<br />
+<br/><br/>
 
 Thanks for visiting!
   
