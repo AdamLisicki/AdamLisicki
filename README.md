@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Cloud Enthusiast.
+##I'm a Cloud Enthusiast.
 
--🌱Expanding my knowledge in ☁️Cloud and ♾️DevOps.
-- 
+-🌱Expanding my knowledge in Cloud and DevOps.
+- Passionate about 
 
 
 <!--
