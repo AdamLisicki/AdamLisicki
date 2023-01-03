@@ -34,13 +34,13 @@
 </p>
 
 ##  **My Certifications and Badges 🏅**
-- [Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
+- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/972fec60-6526-4766-bcbd-f4a7b2bd9073)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/5ff666b9-ef58-4111-958d-f51d6c101daa)
 - [Well-Architected Proficient](https://www.credly.com/badges/c9e393b3-a933-43eb-a69a-e891a4da1378)
 - [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/76d361da-22e8-4508-bf28-a4c8a00f7ca5)
 - [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/d7db7c70-1fda-43dd-8a27-d6dc297a758b)
 <p align="left">
-  <img src="[https://www.credly.com/badges/972fec60-6526-4766-bcbd-f4a7b2bd9073" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width="125" height="125">
