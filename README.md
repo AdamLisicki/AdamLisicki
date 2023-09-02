@@ -1,7 +1,7 @@
 # Hi, I'm Adam 👋
 
-## I'm a Cloud Enthusiast. 
-### ☁️Expanding my knowledge in Cloud and DevOps ♾️
+## Cloud and DevOps Enthusiast. 
+
 
 
 ## Cloud Learning Profiles 👨🏻‍💻
