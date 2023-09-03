@@ -34,6 +34,8 @@
 </p>
 
 ##  **My Certifications and Badges 🏅**
+- [AWS Cloud Project Bootcamp Certificate (Gold Squad)](https://app.exampro.co/validate/certificate/mTPdhrkjxdrj05YpcO2QbA15eaa)
+- [AWS Cloud Project Bootcamp Badge (Gold Squad)](https://app.exampro.co/validate/badge/1f7n5gjwGSNOBSZ6_aWteA15eaa)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/e2032e8c-b18d-4d63-bf44-8e6e0c3dcda8)
 - [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/d7db7c70-1fda-43dd-8a27-d6dc297a758b)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/972fec60-6526-4766-bcbd-f4a7b2bd9073)
