@@ -3,12 +3,6 @@
 ## Cloud and DevOps Enthusiast. 
 
 
-
-## Cloud Learning Profiles 👨🏻‍💻
-- 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.cloudskillsboost.google/public_profiles/7e3a32a9-bbc9-478b-860d-5e2018016235)
-- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://learn.microsoft.com/en-us/users/adamlisicki-1131/)
-
-
 <h2>Tech Stack 💻</h2>
 
 <p>
